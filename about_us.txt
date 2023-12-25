@@ -1,0 +1,17 @@
+Name:_Munsi_Walid_Al_Hassan_Nizhu.
+ID:_19202103271.
+Intake:_44
+Section:_07
+BUBT
+\n
+Name:_Md._Imran_Nazir.
+ID:_19202103248.
+Intake:_44
+Section:_07
+BUBT
+\n
+Name:_Shahinur_Hossain.
+ID:_19202103257.
+Intake:_44
+Section:_07
+BUBT
